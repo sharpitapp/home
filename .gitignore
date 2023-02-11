@@ -1,3 +1,5 @@
 .hugo_build.lock
 .*.swp
 .*.swo
+
+generator/public
