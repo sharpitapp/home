@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sharp IT</title>
-    <link>https://sharpitapp.github.io/website/tags/</link>
+    <link>https://sharpitapp.github.io/home/tags/</link>
     <description>Recent content in Tags on Sharp IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://sharpitapp.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://sharpitapp.github.io/home/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>golang</title>
-      <link>https://sharpitapp.github.io/website/tags/golang/</link>
+      <link>https://sharpitapp.github.io/home/tags/golang/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://sharpitapp.github.io/website/tags/golang/</guid>
+      <guid>https://sharpitapp.github.io/home/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://sharpitapp.github.io/website/tags/hugo/</link>
+      <link>https://sharpitapp.github.io/home/tags/hugo/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://sharpitapp.github.io/website/tags/hugo/</guid>
+      <guid>https://sharpitapp.github.io/home/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>https://sharpitapp.github.io/website/tags/programming/</link>
+      <link>https://sharpitapp.github.io/home/tags/programming/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://sharpitapp.github.io/website/tags/programming/</guid>
+      <guid>https://sharpitapp.github.io/home/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>https://sharpitapp.github.io/website/tags/theme/</link>
+      <link>https://sharpitapp.github.io/home/tags/theme/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://sharpitapp.github.io/website/tags/theme/</guid>
+      <guid>https://sharpitapp.github.io/home/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://sharpitapp.github.io/website/tags/go/</link>
+      <link>https://sharpitapp.github.io/home/tags/go/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://sharpitapp.github.io/website/tags/go/</guid>
+      <guid>https://sharpitapp.github.io/home/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ipsum</title>
-      <link>https://sharpitapp.github.io/website/tags/ipsum/</link>
+      <link>https://sharpitapp.github.io/home/tags/ipsum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharpitapp.github.io/website/tags/ipsum/</guid>
+      <guid>https://sharpitapp.github.io/home/tags/ipsum/</guid>
       <description></description>
     </item>
     

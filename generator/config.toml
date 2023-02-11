@@ -1,4 +1,4 @@
-baseurl = "https://sharpitapp.github.io/website/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://sharpitapp.github.io/home/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Sharp IT"
 theme = "hugo-universal-theme"
 themesDir = "./themes"

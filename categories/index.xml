@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sharp IT</title>
-    <link>https://sharpitapp.github.io/website/categories/</link>
+    <link>https://sharpitapp.github.io/home/categories/</link>
     <description>Recent content in Categories on Sharp IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://sharpitapp.github.io/website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://sharpitapp.github.io/home/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>lorem</title>
-      <link>https://sharpitapp.github.io/website/categories/lorem/</link>
+      <link>https://sharpitapp.github.io/home/categories/lorem/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://sharpitapp.github.io/website/categories/lorem/</guid>
+      <guid>https://sharpitapp.github.io/home/categories/lorem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>https://sharpitapp.github.io/website/categories/programming/</link>
+      <link>https://sharpitapp.github.io/home/categories/programming/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://sharpitapp.github.io/website/categories/programming/</guid>
+      <guid>https://sharpitapp.github.io/home/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pseudo</title>
-      <link>https://sharpitapp.github.io/website/categories/pseudo/</link>
+      <link>https://sharpitapp.github.io/home/categories/pseudo/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://sharpitapp.github.io/website/categories/pseudo/</guid>
+      <guid>https://sharpitapp.github.io/home/categories/pseudo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>starting</title>
-      <link>https://sharpitapp.github.io/website/categories/starting/</link>
+      <link>https://sharpitapp.github.io/home/categories/starting/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://sharpitapp.github.io/website/categories/starting/</guid>
+      <guid>https://sharpitapp.github.io/home/categories/starting/</guid>
       <description></description>
     </item>
     

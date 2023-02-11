@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sharpitapp.github.io/website/authors/</loc>
+    <loc>https://sharpitapp.github.io/home/authors/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/blog/</loc>
+    <loc>https://sharpitapp.github.io/home/blog/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/categories/</loc>
+    <loc>https://sharpitapp.github.io/home/categories/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/blog/2021/08/01/categories-post/</loc>
+    <loc>https://sharpitapp.github.io/home/blog/2021/08/01/categories-post/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/tags/golang/</loc>
+    <loc>https://sharpitapp.github.io/home/tags/golang/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/tags/hugo/</loc>
+    <loc>https://sharpitapp.github.io/home/tags/hugo/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/authors/john-doe/</loc>
+    <loc>https://sharpitapp.github.io/home/authors/john-doe/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/categories/lorem/</loc>
+    <loc>https://sharpitapp.github.io/home/categories/lorem/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/tags/programming/</loc>
+    <loc>https://sharpitapp.github.io/home/tags/programming/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/categories/programming/</loc>
+    <loc>https://sharpitapp.github.io/home/categories/programming/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/categories/pseudo/</loc>
+    <loc>https://sharpitapp.github.io/home/categories/pseudo/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/</loc>
+    <loc>https://sharpitapp.github.io/home/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/tags/</loc>
+    <loc>https://sharpitapp.github.io/home/tags/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/tags/theme/</loc>
+    <loc>https://sharpitapp.github.io/home/tags/theme/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/authors/jane-doe/</loc>
+    <loc>https://sharpitapp.github.io/home/authors/jane-doe/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/blog/2015/10/02/linked-post/</loc>
+    <loc>https://sharpitapp.github.io/home/blog/2015/10/02/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/tags/go/</loc>
+    <loc>https://sharpitapp.github.io/home/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>https://sharpitapp.github.io/home/blog/2015/09/17/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>https://sharpitapp.github.io/home/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>https://sharpitapp.github.io/home/blog/2015/06/24/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/categories/starting/</loc>
+    <loc>https://sharpitapp.github.io/home/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/contact/</loc>
+    <loc>https://sharpitapp.github.io/home/contact/</loc>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/faq/</loc>
+    <loc>https://sharpitapp.github.io/home/faq/</loc>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/tags/ipsum/</loc>
+    <loc>https://sharpitapp.github.io/home/tags/ipsum/</loc>
   </url><url>
-    <loc>https://sharpitapp.github.io/website/blog/1/01/01/migrate-from-jekyll/</loc>
+    <loc>https://sharpitapp.github.io/home/blog/1/01/01/migrate-from-jekyll/</loc>
   </url>
 </urlset>
