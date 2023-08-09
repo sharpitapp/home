@@ -14,3 +14,20 @@
 .box-simple {
     min-height: 230px;
 }
+
+.navbar {
+  position: relative;
+  min-height: 100px;
+  margin-bottom: 0;
+  border-bottom: 1px solid transparent;
+}
+.navbar-brand {
+  float: left;
+  padding: 10px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  height: 120px;
+}
+.navbar-brand img {
+  max-height: 100px;
+}
