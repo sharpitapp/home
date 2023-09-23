@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Sharp IT</title>
-    <link>https://sharpitapp.github.io/home/authors/</link>
+    <link>http://localhost:1313/home/authors/</link>
     <description>Recent content in Authors on Sharp IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://sharpitapp.github.io/home/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="http://localhost:1313/home/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Doe</title>
-      <link>https://sharpitapp.github.io/home/authors/john-doe/</link>
+      <link>http://localhost:1313/home/authors/john-doe/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://sharpitapp.github.io/home/authors/john-doe/</guid>
+      <guid>http://localhost:1313/home/authors/john-doe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jane Doe</title>
-      <link>https://sharpitapp.github.io/home/authors/jane-doe/</link>
+      <link>http://localhost:1313/home/authors/jane-doe/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://sharpitapp.github.io/home/authors/jane-doe/</guid>
+      <guid>http://localhost:1313/home/authors/jane-doe/</guid>
       <description></description>
     </item>
     
