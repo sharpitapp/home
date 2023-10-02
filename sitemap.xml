@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sharpitapp.github.io/home/authors/</loc>
+    <loc>http://localhost:1313/home/authors/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/blog/</loc>
+    <loc>http://localhost:1313/home/blog/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/categories/</loc>
+    <loc>http://localhost:1313/home/categories/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/blog/2021/08/01/categories-post/</loc>
+    <loc>http://localhost:1313/home/blog/2021/08/01/categories-post/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/tags/golang/</loc>
+    <loc>http://localhost:1313/home/tags/golang/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/tags/hugo/</loc>
+    <loc>http://localhost:1313/home/tags/hugo/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/authors/john-doe/</loc>
+    <loc>http://localhost:1313/home/authors/john-doe/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/categories/lorem/</loc>
+    <loc>http://localhost:1313/home/categories/lorem/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/tags/programming/</loc>
+    <loc>http://localhost:1313/home/tags/programming/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/categories/programming/</loc>
+    <loc>http://localhost:1313/home/categories/programming/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/categories/pseudo/</loc>
+    <loc>http://localhost:1313/home/categories/pseudo/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/</loc>
+    <loc>http://localhost:1313/home/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/tags/</loc>
+    <loc>http://localhost:1313/home/tags/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/tags/theme/</loc>
+    <loc>http://localhost:1313/home/tags/theme/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/authors/jane-doe/</loc>
+    <loc>http://localhost:1313/home/authors/jane-doe/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/blog/2015/10/02/linked-post/</loc>
+    <loc>http://localhost:1313/home/blog/2015/10/02/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/tags/go/</loc>
+    <loc>http://localhost:1313/home/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>http://localhost:1313/home/blog/2015/09/17/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>http://localhost:1313/home/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>http://localhost:1313/home/blog/2015/06/24/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/categories/starting/</loc>
+    <loc>http://localhost:1313/home/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/contact/</loc>
+    <loc>http://localhost:1313/home/contact/</loc>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/faq/</loc>
+    <loc>http://localhost:1313/home/faq/</loc>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/tags/ipsum/</loc>
+    <loc>http://localhost:1313/home/tags/ipsum/</loc>
   </url><url>
-    <loc>https://sharpitapp.github.io/home/blog/1/01/01/migrate-from-jekyll/</loc>
+    <loc>http://localhost:1313/home/blog/1/01/01/migrate-from-jekyll/</loc>
   </url>
 </urlset>
